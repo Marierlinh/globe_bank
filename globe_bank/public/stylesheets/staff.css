@@ -4,18 +4,18 @@ html {
 }
 
 body {
-  height: 980px;
+  /* height: 980px; */
   width: 100%;
   margin: 0;
   padding: 0;
 }
 
 header {
-  width: 980px;
+  /* width: 980px; */
   height: 40px;
   margin: 0 0 10px 0;
   padding: 0;
-  background: #0055DD;
+  background: #1f7c10;
   color: white;
 }
 
@@ -35,7 +35,7 @@ navigation {
 }
 
 navigation ul {
-  width: 980px;
+  /* width: 980px; */
   list-style: none;
   padding: 0;
   margin: 0;
@@ -47,18 +47,23 @@ navigation ul li {
 }
 
 #content {
-  width: 920px;
+  /* width: 920px; */
   min-height: 500px;
   padding: 0 30px;
 }
 
 footer {
-  width: 940px;
+  /* width: 940px; */
+  text-align: center;
   height: 20px;
   margin: 0 0 10px 0;
   padding: 10px 20px;
-  background: #0055DD;
+  background: #7ea37db8;
   color: white;
+  position: relative;
+  top: 200px;
+  
+
 }
 
 /* Actions */
